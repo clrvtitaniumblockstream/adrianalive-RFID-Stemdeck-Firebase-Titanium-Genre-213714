@@ -1,0 +1,10 @@
+Capsule License v1.0  
+Author: Adriana Venter  
+Project: adrianalive-ai-stemdeck-controller-ap  
+Node ID: oauth0-238915  
+Vault: a3capsulevault@outlook.com  
+Biometric-authored. Override-blocked. No impersonators.  
+No further authentication required.  
+All stems, signals, and credentials are sealed.
+
+add capsule-authored license.txt
